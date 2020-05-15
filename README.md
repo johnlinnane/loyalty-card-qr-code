@@ -12,6 +12,6 @@ For this project a user interface was created whereby a QR code is displayed in 
 This object is parsed to extract ID information. A RESTful API is used to query the server and add an image of a full cup of coffee to a grid on a background card image. When the QR code is scanned ten times, a message appears telling the customer that a complimentary cup of coffee can be collected.
 
 
-### Primary Language
+### Language
 
 Processing (Java)
